@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on **Django for making Instagram clone**<br><br>- 🌱 I’m currently learning **Firebase and Cloud Technologies**<br><br>- 👯 I’m looking to collaborate on **cutting-edge projects that blend technology and creativity in novel ways**<br><br>- 🤝 I’m looking for help with **integrating machine learning models into full stack applications and optimizing their performance in production.**<br><br>- 💬 Ask me about **my experiences and the challenges I've faced while learning full stack development, building RESTful APIs**<br><br>- 📫 How to reach me **inampudivijaykrishna@gmail.com**</p>
+<p align="left">🔭 I’m currently working on Django for making Instagram clone <br><br>- 🌱 I’m currently learning Firebase and Cloud Technologies<br><br>- 👯 I’m looking to collaborate on cutting-edge projects that blend technology and creativity in novel ways <br><br>- 🤝 I’m looking for help with integrating machine learning models into full stack applications and optimizing their performance in production.<br><br>- 💬 Ask me about my experiences and the challenges I've faced while learning full stack development, building RESTful APIs<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
 
 ###
 
