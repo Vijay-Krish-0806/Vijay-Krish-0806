@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Nextjs related project<br><br>- 🌱 I’m currently learning NextJs <br><br>🤝 I’m looking for help with integrating machine learning models into full stack applications and optimizing their performance in production.<br><br>- 💬 Ask me about my experiences and the challenges I've faced while learning full stack development, building RESTful APIs<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
+<p align="left">🔭 I’m currently working on Nextjs related project<br><br>- 🌱 I’m currently learning Machine Learning <br><br>🤝 I’m looking for help with integrating machine learning models into full stack applications and optimizing their performance in production.<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
 
 ###
 
