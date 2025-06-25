@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Nextjs related project<br><br>- 🌱 I’m currently learning Machine Learning <br><br>🤝 I’m looking for help with integrating machine learning models into full stack applications and optimizing their performance in production.<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
+<p align="left">🔭 I’m currently working as a Software Engineer Trainee at Paltech<br><br>- 🌱 I’m currently learning Full Stack (React.js , SQL Server) <br><br>🤝 I’m looking for help with integrating AI models into full stack applications and optimizing their performance in production.<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
 
 ###
 
@@ -62,7 +62,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
 </div>
 
 ###
@@ -72,7 +71,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
 </div>
@@ -88,9 +86,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+  <img width="12" />
 </div>
 
 ###
