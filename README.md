@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as a Software Engineer Trainee at Paltech<br><br>- 🌱 I’m currently learning Full Stack (React.js , SQL Server) <br><br>🤝 I’m looking for help with integrating AI models into full stack applications and optimizing their performance in production.<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
+<p align="left">🔭 I’m currently working as a Software Engineer Trainee at Paltech<br><br>- 🌱 Had hands on experience in  Full Stack (React.js , SQL Server, Node.js) <br><br>🤝 I’m looking for help with integrating AI models into full stack applications and optimizing their performance in production.<br><br>- 📫 How to reach me <a href="mailto:inampudivijaykrishna@gmail.com">inampudivijaykrishna@gmail.com</a></p>
 
 ###
 
