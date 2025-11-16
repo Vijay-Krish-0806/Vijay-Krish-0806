@@ -105,13 +105,6 @@
 
 ---
 
-## 👀 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Vijay-Krish-0806/count.svg?" />
-</div>
-
----
 
 ## 🧠 Random Quote
 
